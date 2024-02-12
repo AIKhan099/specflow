@@ -1,6 +1,5 @@
 # Introduction 
-Automation of a sample appilication present at : https://github.com/AIKhan099/.Net-Test-Sample-Application  
-
+Automation of a sample appilication present at : https://github.com/AIKhan099/.Net_Test_Sample-Application
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
